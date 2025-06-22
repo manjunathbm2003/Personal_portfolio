@@ -3,7 +3,7 @@ import { Linkedin, Github, Twitter, Heart } from "lucide-react";
 export default function Footer() {
   const socialLinks = [
     { icon: Linkedin, href: "https://linkedin.com/in/manjunath-b-m", label: "LinkedIn" },
-    { icon: Github, href: "#", label: "GitHub" },
+    { icon: Github, href: "https://github.com/manjunathbm2003/Embedded", label: "GitHub" },
     { icon: Twitter, href: "#", label: "Twitter" },
   ];
 
