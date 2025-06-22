@@ -1,3 +1,4 @@
+import profileImage from '../../images/profile.jpg';
 import { ChevronDown, Download, Eye } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
@@ -30,8 +31,8 @@ export default function HeroSection() {
           <div className="w-40 h-40 mx-auto rounded-full overflow-hidden border-4 border-white/30 shadow-2xl">
             <img 
               src="/images/profile.jpg" 
-              alt="Professional headshot of Manjunath B M" 
-              className="w-full h-full object-cover" 
+              alt="My Profile Photo"
+              className="w-48 h-48 rounded-full mx-auto border-4 border-white object-cover mt-4"
             />
           </div>
           
