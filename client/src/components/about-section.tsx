@@ -47,8 +47,8 @@ export default function AboutSection() {
           <div className="flex justify-center">
             <div className="relative">
               <img 
-                src="https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
-                alt="Electronics development workspace with microcontrollers, breadboards, and embedded programming setup" 
+                src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Uno_R3.png" 
+                alt="Arduino Uno microcontroller representing embedded programming and hardware interfacing" 
                 className="rounded-2xl shadow-2xl w-full max-w-lg" 
               />
               <div className="absolute -bottom-6 -right-6 bg-portfolio-primary text-white p-4 rounded-xl shadow-lg">
