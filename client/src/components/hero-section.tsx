@@ -29,7 +29,7 @@ export default function HeroSection() {
           {/* Professional headshot */}
           <div className="w-40 h-40 mx-auto rounded-full overflow-hidden border-4 border-white/30 shadow-2xl">
             <img 
-              src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=400" 
+              src="/attached_assets/.JPG" 
               alt="Professional headshot of Manjunath B M" 
               className="w-full h-full object-cover" 
             />
